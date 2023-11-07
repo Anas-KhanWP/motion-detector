@@ -32,6 +32,7 @@ The system employs the following steps:
 ## Dependencies
 
 This project relies on the following Python libraries:
+- Camo Webcam: To use as webcam, Install in both Desktop and Mobile.
 - OpenCV: For video capture, image processing, and computer vision.
 - Requests: For sending notifications to a Telegram bot.
 
